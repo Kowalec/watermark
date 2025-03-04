@@ -34,3 +34,27 @@ For windows user i build exe for fast start
 ```bash
 pip install Pillow
 
+### macOS
+1. Install Python using Homebrew:
+2. Install required package:
+### Linux
+1. Install Python and pip:
+2. Install required package:
+## Usage
+1. Run the application:
+2. Select a watermark image
+3. Add images to the queue
+4. Choose output directory
+5. Adjust watermark settings:
+   - Size (percentage of image width)
+   - Position
+   - Opacity
+   - Offset
+6. Use the preview to check the result
+7. Select output format (JPG, PNG, WEBP)
+8. Click "Process Queue" to apply watermark to all images
+## License
+MIT License
+
+## Contributing
+Feel free to submit issues and pull requests.
