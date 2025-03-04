@@ -33,6 +33,7 @@ For windows user i build exe for fast start
 2. Open Command Prompt and run:
 ```bash
 pip install Pillow
+```
 
 ### macOS
 1. Install Python using Homebrew:
