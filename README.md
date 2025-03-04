@@ -26,7 +26,8 @@ Sebastian Kowalec
 
 ### Windows Users
 
-For windows user i build exe for fast start
+For windows user i build exe for fast start please download from my website
+https://kowalec.pl/programy/watermark.exe
 
 ### Windows
 1. Install Python from [python.org](https://python.org)
